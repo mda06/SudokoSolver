@@ -1,0 +1,2 @@
+# SudokoSolver
+Bruteforce
